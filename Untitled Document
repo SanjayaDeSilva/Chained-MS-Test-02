@@ -1,0 +1,3 @@
+mvn archetype:generate -DarchetypeGroupId=org.wso2.msf4j -DarchetypeArtifactId=msf4j-microservice \
+-DarchetypeVersion=2.0.0 -DgroupId=org.example -DartifactId=creditservice -Dversion=1.0.0 \
+-Dpackage=org.example.service
